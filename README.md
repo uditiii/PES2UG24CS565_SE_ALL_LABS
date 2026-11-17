@@ -8,7 +8,7 @@ All Software Engineering lab submissions, PES University.
 |-----|-------|------|
 | Lab 1 | Requirements Engineering & UML Use-Case Modelling | [Lab1/PES2UG24CS565_SE_LAB1.pdf](Lab1/PES2UG24CS565_SE_LAB1.pdf) |
 | Lab 2 | Agile Backlog Creation & Sprint Simulation in Jira | [Lab2/PES2UG24CS565_SE_LAB2.pdf](Lab2/PES2UG24CS565_SE_LAB2.pdf) |
-| Lab 3 | Architectural Style Justification | [Lab3/PES2UG24CS565_SE_LAB3.pdf](Lab3/PES2UG24CS565_SE_LAB3.pdf) |
+| Lab 3 | Architectural Style Justification | [Lab3/PES2UG24CS565_SE_LAB3.pdf](Lab3/PES2UG24CS565_SE_LAB3.pdf), [diagram](Lab3/PES2UG24CS565_SE_LAB3_DIAGRAM.png), [repo](https://github.com/uditiii/SE-PROJECT-) |
 
 ## Lab repos
 
@@ -23,5 +23,4 @@ All Software Engineering lab submissions, PES University.
 
 | Project | Repo |
 |---------|------|
-| SE Project | https://github.com/uditiii/SE-PROJECT- |
 | Online Bookstore Platform (Jackfruit) | https://github.com/Online-Bookstore-Platform/Online-Bookstore-Platform |
