@@ -1,6 +1,6 @@
-# SE Labs: Uditi Mourya (PES2UG24CS565)
+# SE Labs: Uditi Mourya SRN:PES2UG24CS565 SECTION:J
 
-All Software Engineering lab submissions, PES University.
+
 
 ## Labs 1-3 (PDF reports in this repo)
 
@@ -8,7 +8,7 @@ All Software Engineering lab submissions, PES University.
 |-----|-------|------|
 | Lab 1 | Requirements Engineering & UML Use-Case Modelling | [Lab1/PES2UG24CS565_SE_LAB1.pdf](Lab1/PES2UG24CS565_SE_LAB1.pdf) |
 | Lab 2 | Agile Backlog Creation & Sprint Simulation in Jira | [Lab2/PES2UG24CS565_SE_LAB2.pdf](Lab2/PES2UG24CS565_SE_LAB2.pdf) |
-| Lab 3 | Architectural Style Justification | [Lab3/PES2UG24CS565_SE_LAB3.pdf](Lab3/PES2UG24CS565_SE_LAB3.pdf), [diagram](Lab3/PES2UG24CS565_SE_LAB3_DIAGRAM.png), [repo](https://github.com/uditiii/SE-PROJECT-) |
+| Lab 3 | Architectural Style Justification | [Lab3/PES2UG24CS565_SE_LAB3.pdf](Lab3/PES2UG24CS565_SE_LAB3.pdf), [diagram](Lab3/PES2UG24CS565_SE_LAB3_DIAGRAM.png), repo:( |
 
 ## Lab repos
 
